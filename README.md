@@ -1,63 +1,181 @@
+<div align="center">
+
+# 👋 Hi, I'm Sushil Shakya
+
+### 🚀 Lead Shopify Developer | Technical Architect | eCommerce Specialist
+
+<p>
+Building scalable, high-performance eCommerce experiences with Shopify & Shopify Plus.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Shopify+Technical+Architect;Shopify+Plus+Expert;Theme+%26+App+Developer;Performance+Optimization;API+Integration+Specialist;10%2B+Years+of+Experience" />
+
+</div>
+
 ---
-name: @skshakyawtc-coding-skill
-description: "GitHub profile skill from @skshakyawtc. Use it when the task would benefit from mimicking this developer's repo choices, coding style, and implementation techniques."
+
+# 💫 About Me
+
+💼 Lead Shopify Developer & Technical Architect
+
+🛍️ 10+ Years in eCommerce Development
+
+🏢 Currently working at **VML**
+
+🌍 Experienced with enterprise Shopify Plus stores
+
+⚡ Passionate about scalable architecture, performance optimization, and clean code.
+
 ---
 
-## What they tend to build
-- There isn’t enough public signal here to confidently describe a recurring product type.
-- The profile has no README and no repository excerpts, so assume the work may span whatever the visible repos show rather than a single obvious niche.
-- Before mirroring any “style,” inspect the actual code and commit history of the target repo.
+# 🛠 Tech Stack
 
-## Coding patterns to mirror
-- Prefer evidence over assumptions: derive naming, structure, abstraction level, and error-handling style from the repo itself.
-- Match the repository’s existing granularity:
-  - if functions are small and explicit, keep changes small and explicit;
-  - if modules are layered and abstracted, don’t flatten them.
-- Reuse the project’s existing conventions for:
-  - file organization
-  - import ordering
-  - naming of components/functions/variables
-  - test placement and test naming
-- When signals are weak, make the smallest coherent change that fits the surrounding code.
+### eCommerce
 
-## Product and UI taste
-- No UI/product taste can be inferred from the available profile material.
-- If the repo is user-facing, inspect:
-  - component spacing and density
-  - copy tone
-  - use of icons, borders, and whitespace
-  - whether the UI favors minimalism or feature visibility
-- Don’t introduce a new visual style unless the repo clearly supports it.
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify Plus](https://img.shields.io/badge/Shopify_Plus-000000?style=for-the-badge)
+![Liquid](https://img.shields.io/badge/Liquid-000000?style=for-the-badge)
 
-## Tech stack clues
-- No stack is visible from the provided profile data.
-- Treat language, framework, and tooling as unknown until confirmed in repository files like:
-  - `package.json`, `pyproject.toml`, `Cargo.toml`, `pom.xml`, `go.mod`
-  - framework entry points and config files
-- Use the repo’s existing tooling, formatter, and test runner rather than guessing.
+### Frontend
 
-## When to inspect repos first
-- Always inspect first when the profile has:
-  - no README
-  - no pinned repo details
-  - no repository excerpts
-  - no obvious stack or product clues
-- Inspect the target repo before coding if you need to match:
-  - architecture
-  - naming conventions
-  - UI tone
-  - error-handling behavior
-  - test style
-- If you can’t inspect, keep changes generic, conservative, and easy to align later.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Repo Map
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## How To Use This Skill
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
-- Reach for this skill when the user asks for Sushil Shakya's style, when the repo stack matches this person's ecosystem, or when studying their real code would reduce made-up output.
-- Pick one or more relevant repositories from the list above based on the current task.
-- Clone the most relevant repository or repositories into `/tmp` for temporary inspection.
-- Study the implementation details, naming patterns, architecture, UI taste, and tooling choices there.
-- Return to the main task and apply the useful patterns you observed instead of copying blindly.
-- Treat the upstream repositories as reference material for style and technique, then adapt them to the current codebase responsibly.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+
+---
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+# 🚀 What I Build
+
+✨ Shopify Themes
+
+✨ Shopify Plus Solutions
+
+✨ Custom Shopify Apps
+
+✨ Public Shopify Apps
+
+✨ Checkout Extensions
+
+✨ Shopify Functions
+
+✨ Store Migration
+
+✨ API Integrations
+
+✨ Performance Optimization
+
+✨ Headless Commerce
+
+✨ B2B Commerce
+
+✨ Custom Metafields & Metaobjects
+
+✨ Automation Workflows
+
+---
+
+# 📈 Experience
+
+🏢 **VML**  
+Lead Shopify Developer & Technical Architect
+
+🏢 **Wunderman Thompson Commerce**
+
+Senior Shopify Developer
+
+🏢 **Like Digital & Partners**
+
+Senior Shopify Developer
+
+🏢 **Flexsin**
+
+Shopify Theme & App Developer
+
+---
+
+# 🌟 Core Expertise
+
+- Enterprise Shopify Architecture
+- Shopify Plus
+- Theme Development
+- App Development
+- Checkout Extensibility
+- Shopify Functions
+- Storefront API
+- GraphQL
+- REST APIs
+- Performance Optimization
+- Data Migration
+- Webhooks
+- CI/CD
+- Technical Leadership
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&margin-w=10)
+
+---
+
+# 📫 Connect with Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/sushilkshakya
+
+📧
+
+sushilshakya.official@gmail.com
+
+---
+
+<div align="center">
+
+### ⭐ Building scalable Shopify experiences, one store at a time.
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+
+</div>
